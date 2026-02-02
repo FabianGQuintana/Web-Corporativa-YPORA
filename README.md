@@ -38,7 +38,7 @@ El objetivo principal del sitio es establecer una presencia digital profesional,
     ```
 
 ## ✒️ Autor
-* **Quintana Gustavo Fabian** - *Desarrollo y Diseño* - [TuGitHub]((https://github.com/FabianGQuintana))
+* **Quintana Gustavo Fabian** - *Desarrollo y Diseño* - [[Mi GitHub](https://github.com/FabianGQuintana)]
 
 ---
 *Nota: Este proyecto fue desarrollado como una propuesta de solución digital para el cliente YPora.*

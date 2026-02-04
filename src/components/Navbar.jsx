@@ -25,7 +25,7 @@ const Navbar = () => {
 
         {/* Links tipo "Pastilla" - Respetando text-2xl y sin botones extras */}
         <div className="hidden md:flex gap-4">
-          {['Alcance', 'Visión', 'Nosotros', 'Servicios'].map((item) => (
+          {['Alcance', 'Nosotros', 'Servicios','Proximamente!'].map((item) => (
             <a
               key={item}
               href={`#${item.toLowerCase().replace(' ', '-')}`}

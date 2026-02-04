@@ -37,8 +37,8 @@ const Hero = () => {
           </p>
         </div>
 
-        {/* BOTÓN: Siempre visible pero con mejor tamaño para móviles */}
-        <div className="mt-8 md:mt-12">
+        {/* BOTÓN */}
+        <div className="mt-8 md:mt-60 mb-1">
           <a 
             href="https://wa.me/3794757524" 
             target="_blank" 

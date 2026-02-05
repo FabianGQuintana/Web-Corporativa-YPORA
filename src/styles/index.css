@@ -9,6 +9,11 @@
   --color-ypora-red: #ef4444;
 }
 
+/* --- EFECTO DE DESPLAZAMIENTO SUAVE --- */
+html {
+  scroll-behavior: smooth;
+}
+
 /* Animación de entrada para los links del móvil */
 @keyframes revealLink {
   from {
@@ -23,5 +28,5 @@
 
 .animate-reveal {
   animation: revealLink 0.4s ease-out forwards;
-  opacity: 0; /* Empiezan invisibles para que la animación los revele */
+  opacity: 0; 
 }

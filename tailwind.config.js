@@ -5,7 +5,13 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'ypora-green': '#065f46',
+        'ypora-black': '#111827',
+        'ypora-red':   '#ef4444',
+      },
+    },
   },
   plugins: [],
 }

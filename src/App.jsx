@@ -1,7 +1,7 @@
 import Navbar from './components/Navbar'; 
 import Hero from './components/Hero';
 import Alcance from './components/Alcance';
-
+import Nosotros from './components/Nosotros';
 function App() {
 
   return (
@@ -9,6 +9,7 @@ function App() {
       <Navbar/>
       <Hero/>
       <Alcance/>
+      <Nosotros/>
     </>
   )
 }

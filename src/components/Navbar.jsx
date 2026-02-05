@@ -40,7 +40,7 @@ const Navbar = () => {
       {/* Menú Desplegable Móvil (Mantiene tu diseño de pastilla) */}
       {isOpen && (
         <div className="md:hidden mt-4 flex flex-col gap-4 animate-fadeIn ">
-          {['Alcance', 'Visión', 'Nosotros', 'Servicios'].map((item, index) => (
+          {['Alcance', 'Visión', 'Nosotros', 'Servicios','Proximamente'].map((item, index) => (
         <a
           key={item}
           href={`#${item.toLowerCase().replace(' ', '-')}`}
